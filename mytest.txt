@@ -1,1 +1,2 @@
  我今天添加了一个测试git 文本文件
+change the txt 
